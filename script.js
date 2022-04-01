@@ -1,3 +1,5 @@
+//TEST SCRIPT FILE to try DOM manipulations//
+
 let test_dom =  document.querySelector('h1');
 
 test_dom.style.color = "blue";
