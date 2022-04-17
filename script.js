@@ -1,4 +1,4 @@
-//TEST SCRIPT FILE to try DOM manipulations//
+TEST SCRIPT FILE to try DOM manipulations//
 
 let test_dom =  document.querySelector('h1');
 
