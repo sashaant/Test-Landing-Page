@@ -1,4 +1,12 @@
 
+/* General Changes */
+h3{
+    font-size:30px;
+    font-weight: bold;
+  }
+
+
+
 body{
     /* font-family: 'Roboto', sans-serif;*/
      /* font-family: 'Ms Madi', cursive; */
@@ -56,3 +64,15 @@ body{
     background-color: #990099;
   }
 
+  /* Features Section */
+#features i{
+    color:#990099;
+  
+  }
+  
+  #features h3:hover{
+    color:#990099;
+    cursor:pointer;
+  }
+  
+  /* Features Section */
